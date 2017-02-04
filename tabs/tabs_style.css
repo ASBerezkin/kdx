@@ -11,7 +11,8 @@ label {
   border-bottom: 1px solid #fff;
   text-align: center;
   position: relative;
-  margin-bottom: -1px; }
+  margin-bottom: -1px;
+  font-size: 14px; }
 
 input[type="radio"] {
   display: none; }
@@ -30,7 +31,8 @@ input:checked + label {
 .container {
   max-width: 920px;
   text-align: center;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 10px; }
 
 .tabs {
   width: 100%; }
@@ -48,5 +50,10 @@ input:checked + label {
 
 .active {
   display: block; }
+
+@media screen and (max-width: 373px) {
+  label {
+    font-size: 12px;
+    padding: 5px; } }
 
 /*# sourceMappingURL=tabs_style.css.map */
