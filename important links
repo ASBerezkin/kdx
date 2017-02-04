@@ -1,0 +1,35 @@
+1.Основы CSS Посмотреть обязательно:
+ ☐ https://www.youtube.com/watch?v=_nrQbO3iXgI&feature=youtu.be
+2.Селекторы, вложенность (> ~ +):
+ ☐ https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+3.Позиционирование элемента:
+ ☐ https://css-tricks.com/centering-css-complete-guide/
+4.Вертикальное позиционирование элемента:
+ ☐ http://vanseodesign.com/css/vertical-centering/
+5.Статья про Z-index:
+ ☐ https://habrahabr.ru/post/166435/
+6.Методология БЭМ:
+ ☐ https://ru.bem.info/
+7.SASS/SCSS Documentation:
+ ☐ http://sass-lang.com/documentation/Sass/Script/Functions.html
+8.EMMET:
+ ☐ http://docs.emmet.io/cheat-sheet/
+9.Адаптивный дизайн CSS3: 
+  ☐ https://habrahabr.ru/post/119127/ - @critical
+  ☐ http://naikom.ru/blog/archives/5566 - более развернуто @critical
+  ☐ https://davidwalsh.name/write-media-queries-sass - адаптивный дизайн на миксинах @critical
+10. Все обо всем отлично написано:
+  ☐ https://webref.ru/layout/magic-of-css/
+Задание:
+  ☐ Как работает JS (Вкладки с информацией)
+  ☐ Инструменты (WebPack - сборщик проектов)
+  ☐ Get Pocket - https://getpocket.com/a/queue/
+  ☐ https://habrahabr.ru/post/268951/ - GIT - читать @critical
+  ☐ https://learn.javascript.ru/screencast/webpack - прочитать @low
+Установить:
+  ☐ Atom - https://atom.io/
+  ☐ phpStorm / WebStorm
+  ☐ NodeJS
+  ☐ GULP
+
+  
